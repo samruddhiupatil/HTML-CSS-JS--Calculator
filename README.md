@@ -1,2 +1,3 @@
 # HTML-CSS-JS--Calculator
-# HTML-CSS-JS-Calculator
+
+Simple Caclulator using Javascipr, HTML and CSS.
